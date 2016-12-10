@@ -4,8 +4,7 @@ language: java
 jdk:
   - oraclejdk8
 before_install:
-  - 'nvm install 6.9.1 && npm i -g grunt' # Install NodeJS deps
-  - 'sudo n lts' # Bump NPM to LTS version
+  - 'nvm install 6.9.1 && npm i -g grunt' # Install NodeJS and deps
 install:
   - 'cd app && npm i'
   - 'cd ..'
