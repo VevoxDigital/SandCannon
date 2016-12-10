@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/VevoxDigital/SandCannon/issues"
   },
-  "homepage": "https://github.com/VevoxDigital/SandCannon#readme"
+  "homepage": "https://github.com/VevoxDigital/SandCannon#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
 }
