@@ -1,0 +1,19 @@
+{
+  "name": "sand-cannon",
+  "version": "0.0.1-mc1.10.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VevoxDigital/SandCannon.git"
+  },
+  "author": "VevoxDigital",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VevoxDigital/SandCannon/issues"
+  },
+  "homepage": "https://github.com/VevoxDigital/SandCannon#readme"
+}

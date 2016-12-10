@@ -7,7 +7,9 @@ before_install:
   - 'npm i -g n grunt' # Install NodeJS deps
   - 'sudo n lts' # Bump NPM to LTS version
 install:
-#  - 'npm i'
+  - 'cd app && npm i'
+  - 'cd ..'
 script:
-  - 'mvn test'
-#  - 'grunt test'
+  - 'cd spigot && mvn test'
+  - 'cd ../app && npm test'
+  - 'cd ..'
