@@ -2,3 +2,10 @@
 # IDEA project files
 *.iml
 .idea/
+
+## JavaScript/NodeJS Project
+
+
+## Common/Misc
+# Build directories
+target/
