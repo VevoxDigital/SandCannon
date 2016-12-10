@@ -93,6 +93,7 @@
                                     <include>com.squareup.okhttp3:okhttp-ws</include>
                                     <include>com.squareup.okhttp3:okhttp</include>
                                     <include>com.squareup.okio:okio</include>
+                                    <include>org.json:json</include>
                                 </includes>
                             </artifactSet>
                         </configuration>
